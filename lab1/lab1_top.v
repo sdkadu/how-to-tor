@@ -2,7 +2,7 @@ module lab1_top (                                                               
   input not_LEFT_pushbutton,                                                    // declares inputs & outputs
   input not_RIGHT_pushbutton,
   input [3:0] A,
-  input [3:0] B,
+  input [3:0] B, 
   output reg [3:0] result );
 
   wire [3:0] ANDed_result;                                                      // declares wires to use as 'variables'
