@@ -1,4 +1,4 @@
-module lab1_top_tb ();
+module lab1_top_tb (); //gpg
 // No inputs or outputs, because it is a testbench
 
 	reg sim_LEFT_button;
